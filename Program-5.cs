@@ -13,7 +13,7 @@ namespace Roteiro2
             c1 = double.Parse(Console.ReadLine());
             c2 = double.Parse(Console.ReadLine());
             hipotenusa = Math.Sqrt((c1 * c1 + c2 * c2));
-            Console.WriteLine("O valor da hipotenusa será de:{0}", hipotenusa);
+            Console.WriteLine("O valor da hipotenusa seraá de:{0}", hipotenusa);
         }
     }
 }
